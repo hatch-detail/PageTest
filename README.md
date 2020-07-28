@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## The Test Page
 
-You can use the [editor on GitHub](https://github.com/hatch-detail/PageTest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is just a boring old markdown readme with no actual information about anything. Just some ramblings to see how the format is looking.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Ooh Look, a Subheading
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There's some more text here under that header that's a little smaller than the header that's above it. Kinda like a subsection you could say.
 
 ```markdown
 Syntax highlighted code block
@@ -30,7 +28,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hatch-detail/PageTest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This page is using a theme that I selected, how wild is that. Just clicked a few buttons on my fitbit.
 
 ### Support or Contact
 
