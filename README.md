@@ -35,4 +35,4 @@ This page is using a theme that I selected, how wild is that. Just clicked a few
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ## Get Started
-[The Beginning](https://github.com/hatch-detail/PageTest/start/begin.md)
+[The Beginning](https://hatch-detail.github.io/PageTest/start)
