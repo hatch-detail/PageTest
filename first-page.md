@@ -1,6 +1,6 @@
 layout: page
 title: "First page"
-permalink: /first-page/
+permalink: /start/
 
 ##This is the first page of the documentations
 
